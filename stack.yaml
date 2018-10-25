@@ -3,4 +3,5 @@ packages:
 - '.'
 extra-deps:
 - sdl2-ttf-0.2.1
+- base-orphans-0
 resolver: lts-2.21
